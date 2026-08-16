@@ -18,7 +18,4 @@ Statistical analysis of admissions, standardized test scores, tuition, and stude
 - `DECISIONS.md` — Running log of key analysis decisions by assignment
 
 ## Team
-Emily Bradley, with Benoit and Henry (Group 7). This analysis was completed as a team.
-
-## Reflection
-The most challenging part of this assignment wasn't the statistics — it was untangling a merge conflict in DECISIONS.md after my local repo and GitHub diverged. I'd never dealt with "divergent branches" before, and figuring out how to configure a merge strategy, resolve conflict markers by hand, and clear a stuck index.lock file taught me more about how Git actually tracks history than any tutorial had. Going forward, I plan to keep using this VS Code + GitHub workflow for every group project in the MSBA program — version control isn't just useful for code, it's the cleanest way for a team to build on each other's work without overwriting anyone's analysis, and having a real commit history and decision log makes it much easier to explain our reasoning later, whether that's to a professor or a future employer.
+Emily Bradley, with Benoit Bataille and Henry Hubbard (Wake Forest University- MSBA Class of 2027). This analysis was completed as a team.
