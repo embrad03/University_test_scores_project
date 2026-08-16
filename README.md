@@ -14,7 +14,7 @@ Statistical analysis of admissions, standardized test scores, tuition, and stude
 - `assignment-04-probability/` — Probability distribution analysis (Assignment 4)
 - `assignment-05-inference/` — Hypothesis tests and confidence intervals (Assignment 5)
 - `assignment-06-regression/` — Multiple regression modeling (Assignment 6)
-- `data` — Raw dataset file (CSV format)
+- `data/university_test_scores.csv` — Raw dataset file
 - `DECISIONS.md` — Running log of key analysis decisions by assignment
 
 ## Team
